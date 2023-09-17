@@ -1,3 +1,4 @@
+//contexto para gerenciar o compartilhamento de dados do app
 import { createContext,useReducer} from "react";
 import questions from '../data/questions'
 
